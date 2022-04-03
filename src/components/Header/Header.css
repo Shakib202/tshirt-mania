@@ -6,3 +6,7 @@ nav a{
 nav a:hover{
     color: orange;
 }
+nav a.active{
+    font-weight: bold;
+    color: brown;
+}
